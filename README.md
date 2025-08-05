@@ -17,7 +17,7 @@ A clean, responsive **Sales Dashboard** built with **Next.js 15**, **TypeScript*
 
 ## 🛠️ Tech Stack
 
-- **Framework**: Next.js 15 (App Router)
+- **Framework**: Next.js 15 (App Router) 
 - **Language**: TypeScript
 - **Styling**: Tailwind CSS
 - **Charts**: Recharts
